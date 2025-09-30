@@ -1,6 +1,6 @@
 # Python-practice-.
 Este repositorio contiene ejercicios básicos de Python:
-- `AREA TRIANGULO.py`: calcula el área de un triángulo.
-- `TABLA.py`: muestra la tabla de multiplicar.
-- `CALCULADORA IMC`: calcula el Índice de Masa Corporal (IMC).
+- `area-triangulo.py`: calcula el área de un triángulo.
+- `tabla.py`: muestra la tabla de multiplicar.
+- `calculadora-imc`: calcula el Índice de Masa Corporal (IMC).
   
